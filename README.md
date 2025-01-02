@@ -23,7 +23,7 @@ git clone https://github.com/PiruthiviP/AuraQuotes.git
 The website features a clean and visually appealing interface showcasing motivational quotes with interactive elements like the light/dark mode toggle and bubble effect.
 
 # Website URL
-Visit the live site: [AuraQuotes](https://piruthivip.github.io/AuraQuotes)
+Visit the live site: [AuraQuotes](https://piruthivip.github.io/AuraQuotes/)
 
 # Contributing
  - Feel free to fork the repository and submit pull requests with improvements or additional quotes!
